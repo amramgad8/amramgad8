@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amr Mashaly and I'm a Data Analyst and Data Scientist from Egypt.</h2>
+<h2 align="left">Hi 👋! My name is Amr Mashaly and I'm a Data Analyst and Data Scientist.</h2>
 
 ###
 
